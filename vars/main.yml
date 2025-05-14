@@ -1,0 +1,5 @@
+cluster_name: "my-es-cluster"
+
+es_version: "8.x"
+
+enable_security: false
